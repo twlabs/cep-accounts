@@ -21,8 +21,8 @@ First, you will need:
 
 Clone this repository, then use `gradle` to build the project. You should see a single test failure.
 ```sh
-$ cd path/to/cep-shapes
-cep-shapes$ gradle build
+$ cd path/to/cep-accounts
+cep-accounts$ gradle build
 ```
 
 # Getting Started: Javascript
@@ -36,7 +36,7 @@ First, you will need:
 
 Clone this repository, then use `npm` to build the project. You should see a single test failure.
 ```sh
-$ cd path/to/cep-shapes
-cep-shapes$ npm install
-cep-shapes$ npm test
+$ cd path/to/cep-accounts
+cep-accounts$ npm install
+cep-accounts$ npm test
 ```
