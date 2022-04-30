@@ -1,11 +1,11 @@
 package com.thoughtworks.cep.accounts
 
-import org.junit.jupiter.api.Test
+import kotlin.test.Test
 
 class CheckingAccountTest {
     @Test
     fun checkBalance() {
-        val account = CheckingAccount(0)
+        val account = CheckingAccount()
         // add assertions
     }
 }

@@ -1,6 +1,6 @@
 package com.thoughtworks.cep.accounts
 
-class CheckingAccount(amount: Long) {
+class CheckingAccount(openingBalance: Long = 0) {
     fun balance(): Long {
         throw UnsupportedOperationException()
     }
