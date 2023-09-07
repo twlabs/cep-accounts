@@ -1,6 +1,6 @@
 # Introduction
 
-## Core Engineering Practices Shapes exercise
+## Core Engineering Practices Accounts exercise
 
 To start, run through the "Getting Started" steps below for either Kotlin or Javascript (whichever you are most comfortable working with).
 
