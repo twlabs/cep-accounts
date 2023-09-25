@@ -42,3 +42,19 @@ $ cd path/to/cep-accounts/javascript
 javasript$ npm install
 javasript$ npm test
 ```
+
+# Getting Started: C#
+
+First, you will need:
+
+- dotnet 7 sdk
+  - `brew install dotnet`
+- A C# IDE (like Visual Studio Code)
+  - `brew install --cask visual-studio-code`
+
+Clone this repository, then use `dotnet` to build the project. You should see a single test failure.
+
+```shell
+$ cd path/to/cep-accounts/csharp
+csharp$ dotnet test
+```
