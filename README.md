@@ -1,6 +1,6 @@
 # Introduction
 
-## Core Engineering Practices Shapes exercise
+## Core Engineering Practices Accounts exercise
 
 To start, run through the "Getting Started" steps below for either Kotlin or Javascript (whichever you are most comfortable working with).
 
@@ -22,8 +22,8 @@ First, you will need:
 Clone this repository, then use `gradle` to build the project. You should see a single test failure.
 
 ```sh
-$ cd path/to/cep-accounts
-cep-accounts$ ./gradlew test
+$ cd path/to/cep-accounts/kotlin
+kotlin$ ./gradlew test
 ```
 
 # Getting Started: Javascript
@@ -38,7 +38,7 @@ First, you will need:
 Clone this repository, then use `npm` to build the project. You should see a single test failure.
 
 ```sh
-$ cd path/to/cep-accounts
-cep-accounts$ npm install
-cep-accounts$ npm test
+$ cd path/to/cep-accounts/javascript
+javasript$ npm install
+javasript$ npm test
 ```
